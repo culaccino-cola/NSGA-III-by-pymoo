@@ -18,11 +18,10 @@
 # 推荐使用 Anaconda 或虚拟环境安装
 pip install numpy pandas matplotlib pymoo
 ```
-- Python ≥ 3.7
-- numpy ≥ 1.21.0
-- pandas ≥ 1.3.0
-- matplotlib ≥ 3.4.0
-- pymoo ≥ 0.6.0（多目标优化框架）
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+pymoo==0.6.1.5
 
 ## 项目结构
 ```
